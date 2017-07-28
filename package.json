@@ -1,0 +1,25 @@
+{
+  "name": "videojs-progress-labels",
+  "version": "0.0.1",
+  "description": "add labels on video.js player's progressbar",
+  "scripts": {},
+  "author": "bf.song",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bf.song/videojs-progress-labels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bf.song/videojs-progress-labels/issues"
+  },
+  "homepage": "https://github.com/bf.song/videojs-progress-labels",
+  "keywords": [
+    "video.js",
+    "video.js-progress-labels"
+  ],
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2"
+  }
+}
